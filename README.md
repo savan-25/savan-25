@@ -33,7 +33,7 @@ A full-stack platform to manage events, attendees, and organizers.
 **Tech:** Angular, Node.js, Express, MongoDB
 
 ### 🏨 Hotel Management System
-Handles hotel reservations, room availability, and restaurant orders.  
+Handles hotel Menu and Contact details.  
 **Tech:** Angular, Node.js, Bootstrap, MongoDB
 
 ---
