@@ -22,7 +22,7 @@ I love building real-world projects and solving practical problems.
 
 ## 📫 How to Reach Me
 📧 [Email me](mailto:savansumbe@email.com)  
-🔗 [LinkedIn (optional)](https://www.linkedin.com/in/your-link)
+🔗 [LinkedIn (optional)](https://www.linkedin.com/in/savansumbe25)
 
 ---
 
